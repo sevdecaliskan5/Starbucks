@@ -38,10 +38,6 @@ This project utilizes the following technologies:
 
 **Footer with Social Media Links:** Includes icons linking to Spotify, Facebook, Pinterest, Instagram, YouTube, and Twitter.
 
-# Live Demo / Preview
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
-
 ![Starbucks-GoogleChrome2024-11-0712-06-23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/05bd14d3-008f-4421-840f-dce556bb7dbc)
 
 
